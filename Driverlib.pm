@@ -1,9 +1,3 @@
-###############################################################
-# Driverlib.pm - A package of helper functions for Perl drivers
-# 
-# Copyright (c) 2005 David R. O'Hallaron, All rights reserved.
-###############################################################
-
 package Driverlib;
 
 use Socket;
