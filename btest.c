@@ -1,17 +1,5 @@
-/* 
- * CS:APP Data Lab 
- * 
- * btest.c - A test harness that checks a student's solution in bits.c
- *           for correctness.
- *
- * Copyright (c) 2001-2011, R. Bryant and D. O'Hallaron, All rights
- * reserved.  May not be used, modified, or copied without permission.
- *
- * This is an improved version of btest that tests large windows
- * around zero and tmin and tmax for integer puzzles, and zero, norm,
- * and denorm boundaries for floating point puzzles.
- * 
- * Note: not 64-bit safe. Always compile with gcc -m32 option.
+/*
+ * btest.c - A test harness
  */
 #include <stdio.h>
 #include <unistd.h>
