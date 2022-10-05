@@ -1,7 +1,3 @@
-/*
- * CS:APP Data Lab
- */
-
 /* Declare different function types */
 typedef int (*funct_t) (void);
 typedef int (*funct1_t)(int);
@@ -23,10 +19,3 @@ typedef struct {
 } test_rec, *test_ptr;
 
 extern test_rec test_set[];
-
-
-
-
-
-
-
