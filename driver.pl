@@ -1,17 +1,3 @@
-#!/usr/bin/perl
-#######################################################################
-# driver.pl - CS:APP Data Lab driver
-#
-# Copyright (c) 2004-2011, R. Bryant and D. O'Hallaron, All rights
-# reserved.  May not be used, modified, or copied without permission.
-#
-# Note: The driver can use either btest or the BDD checker to check
-# puzzles for correctness. This version of the lab uses btest, which
-# has been extended to do better testing of both integer and
-# floating-point puzzles.
-#
-#######################################################################
-
 use strict 'vars';
 use Getopt::Std;
 
